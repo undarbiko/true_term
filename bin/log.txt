@@ -1,0 +1,10 @@
+Execution log started
+{
+    "happy": true,
+    "pi": 3.141
+}
+true
+TreeCallback: Item 'Fred' closed
+TreeCallback: Item 'Simpsons' closed
+TreeCallback: Item 'Pathnames' closed
+Terminated
